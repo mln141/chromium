@@ -1,0 +1,6 @@
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\Chromium2017\bin\Debug\Chromium2017.exe.config
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\Chromium2017\bin\Debug\Chromium2017.exe
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\Chromium2017\bin\Debug\Chromium2017.pdb
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\Chromium2017\obj\Debug\Chromium2017.exe
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\Chromium2017\obj\Debug\Chromium2017.pdb
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\Chromium2017\obj\Debug\Chromium2017.csprojResolveAssemblyReference.cache
