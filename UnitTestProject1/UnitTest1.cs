@@ -18,7 +18,7 @@ namespace UnitTestProject1
 			var sol = new Program.Solution();
 			var sw = new Stopwatch();
 			var swStd = new Stopwatch();
-			for (var i = 0; i < 5; i++)
+			for (var i = 0; i < 50; i++)
 			{
 				var lst = new List<int>();
 				switch (i)
@@ -33,7 +33,7 @@ namespace UnitTestProject1
 						s = new[] {13, 2, 5};
 						break;
 					default:
-						for (int j = rnd.Next(5, 20); j >= 0; j--) lst.Add(rnd.Next(200));
+						for (int j = rnd.Next(5, 2000); j >= 0; j--) lst.Add(rnd.Next(20000));
 						s = lst.ToArray();
 						break;
 				}
@@ -47,7 +47,7 @@ namespace UnitTestProject1
 				Console.WriteLine($"OK {i}: {ShowArray(s)}");
 				Console.WriteLine("---------------");
 			}
-			Console.WriteLine($"Effect: {sw.ElapsedTicks / swStd.ElapsedTicks}");
+			Console.WriteLine($"Effect: {(double)sw.ElapsedTicks / swStd.ElapsedTicks}");
 			}
 
 		

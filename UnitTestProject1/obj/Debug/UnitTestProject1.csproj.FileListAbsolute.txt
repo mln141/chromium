@@ -6,3 +6,11 @@ D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\UnitT
 D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\Chromium2017\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\bin\Debug\Chromium2017.exe
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\bin\Debug\Chromium2017.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\MyDocuments\Visual Studio 2015\Projects\chromium\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
