@@ -33,7 +33,7 @@ namespace UnitTestProject1
 						s = new[] {13, 2, 5};
 						break;
 					default:
-						for (int j = rnd.Next(5, 2000); j >= 0; j--) lst.Add(rnd.Next(20000));
+						for (int j = rnd.Next(5, 500); j >= 0; j--) lst.Add(rnd.Next(20000));
 						s = lst.ToArray();
 						break;
 				}
@@ -41,7 +41,7 @@ namespace UnitTestProject1
 				int result = sol.solution(s);
 				sw.Stop();
 				swStd.Start();
-				int resultStd = sol.solutionStd(s);
+				int resultStd = sol.solutionV3(s);
 				swStd.Stop();
 				Assert.AreEqual(resultStd, result, $"Failed {i}: {ShowArray(s)}");
 				Console.WriteLine($"OK {i}: {ShowArray(s)}");
@@ -55,7 +55,7 @@ namespace UnitTestProject1
 		private static string ShowArray(int[] s)
 			{
 			var str = "";
-			s.ToList().ForEach(x=>str += $" {x}");
+			//s.ToList().ForEach(x=>str += $" {x}");
 			return str;
 			}
 		}
